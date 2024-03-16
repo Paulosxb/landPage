@@ -20,7 +20,7 @@ Este projeto visa não apenas homenagear a série "Suits", mas também demonstra
 
 ### Como Usar
 
-Para visualizar a landing page, você pode clonar o repositório e abrir o arquivo `index.html` em seu navegador.
+Para visualizar a landing page, você pode clonar o repositório e abrir o arquivo `index.html` em seu navegador
 
 ```bash
 git clone https://github.com/Paulosxb/landPage.git
